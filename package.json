@@ -4,10 +4,13 @@
     "description": "A simple hello world API",
     "main": "server.js",
     "scripts": {
-      "start": "node server.js"
+        "start": "node server.js"
     },
     "dependencies": {
-      "express": "^4.17.1"
-    }
-  }
-  
+        "express": "^4.21.0",
+        "hello-world-api": "file:"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

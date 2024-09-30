@@ -1,0 +1,4 @@
+/var/lib/jenkins/workspace/hello-world-pipeline
+/var/lib/jenkins/workspace/hello-world-pipeline
+/var/lib/jenkins/workspace/hello-world-pipeline
+scp -i /var/lib/jenkins/workspace/key.pem   /var/lib/jenkins/workspace/hello-world-pipeline/hello-world-api.tar ubuntu@ec2-13-201-6-166.ap-south-1.compute.amazonaws.com:/home/ubuntu/
